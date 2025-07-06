@@ -1,4 +1,4 @@
-# Operating Systems Assignment 1 — Processes and Scheduling
+# Operating Systems — Processes and Scheduling
 
 ## Overview
 
